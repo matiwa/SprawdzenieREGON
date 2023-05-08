@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="SprawdzenieREGON.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="85"/>
+        <CursorPos X="5" Y="108"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="8">
+      <Position>
+        <Filename Value="SprawdzenieREGON.lpr"/>
+        <Caret Line="8" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieREGON.lpr"/>
+        <Caret Line="9" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieREGON.lpr"/>
+        <Caret Line="10" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieREGON.lpr"/>
+        <Caret Line="13" Column="19" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieREGON.lpr"/>
+        <Caret Line="15" Column="4" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieREGON.lpr"/>
+        <Caret Line="36" Column="20" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieREGON.lpr"/>
+        <Caret Line="64" Column="18" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieREGON.lpr"/>
+        <Caret Line="73" Column="39" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzenieREGON.lpr"/>
+        <Caret Line="84" Column="32" TopLine="85"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
